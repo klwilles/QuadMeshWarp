@@ -1,0 +1,20 @@
+
+------------------------------------
+2011/4/4 15:20:6 - OF_ERROR
+Bad news, meshPos0.xml did not load successfully.
+
+
+------------------------------------
+2011/4/4 15:20:6 - OF_ERROR
+Bad news, meshPos1.xml did not load successfully.
+
+
+------------------------------------
+2011/4/4 15:20:6 - OF_ERROR
+Bad news, meshPos2.xml did not load successfully.
+
+
+------------------------------------
+2011/4/4 15:20:6 - OF_ERROR
+Bad news, meshPos3.xml did not load successfully.
+

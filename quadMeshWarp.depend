@@ -1,0 +1,824 @@
+# depslib dependency file v1.0
+1300297800 source:c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\addons\ofxfbotexture_0061\ofxfbotexture.cpp
+	"ofxFBOTexture.h"
+
+1300297800 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\addons\ofxfbotexture_0061\ofxfbotexture.h
+	"ofMain.h"
+	<iostream>
+
+1301334079 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\openframeworks\ofmain.h
+	"ofConstants.h"
+	"ofMath.h"
+	"ofUtils.h"
+	"ofTypes.h"
+	"ofSerial.h"
+	"ofArduino.h"
+	"ofTexture.h"
+	"ofTrueTypeFont.h"
+	"ofGraphics.h"
+	"ofImage.h"
+	"ofBaseApp.h"
+	"ofAppRunner.h"
+	"ofSoundStream.h"
+	"ofSoundPlayer.h"
+	"ofVideoGrabber.h"
+	"ofVideoPlayer.h"
+	"ofEvents.h"
+
+1301334080 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\openframeworks\utils\ofconstants.h
+	<TargetConditionals.h>
+	<windows.h>
+	"GLee.h"
+	"glu.h"
+	<unistd.h>
+	"GLee.h"
+	<OpenGL/glu.h>
+	<ApplicationServices/ApplicationServices.h>
+	<unistd.h>
+	"GLee.h"
+	<GL/glu.h>
+	<cstdlib>
+	<cstdio>
+	<cstdarg>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	<string>
+	<iostream>
+	<vector>
+	<cstring>
+	<sstream>
+	<iomanip>
+	<fstream>
+
+1301334079 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\glee\include\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+1301334075 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\glu\include\glu.h
+	"glu_mangle.h"
+	<GL/gl.h>
+
+1301334080 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\openframeworks\utils\ofmath.h
+	"ofConstants.h"
+	"ofTypes.h"
+
+1301334080 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\openframeworks\utils\oftypes.h
+	"ofConstants.h"
+	"ofUtils.h"
+
+1301334080 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\openframeworks\utils\ofutils.h
+	"ofConstants.h"
+	<shellapi.h>
+
+1301334080 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\openframeworks\communication\ofserial.h
+	"ofConstants.h"
+	<termios.h>
+	<sys/ioctl.h>
+	<getopt.h>
+	<dirent.h>
+	<winbase.h>
+	<tchar.h>
+	<iostream>
+	<string.h>
+	<setupapi.h>
+	<regstr.h>
+	<winioctl.h>
+	<initguid.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<fcntl.h>
+	<errno.h>
+	<ctype.h>
+
+1301334080 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\openframeworks\communication\ofarduino.h
+	<list>
+	<vector>
+	<string>
+	<iostream>
+	"ofEvents.h"
+	"ofSerial.h"
+
+1301334081 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\openframeworks\events\ofevents.h
+	"ofConstants.h"
+	"ofUtils.h"
+	"ofEventUtils.h"
+	"ofxEventUtils.h"
+
+1301334081 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\openframeworks\events\ofeventutils.h
+	"ofConstants.h"
+	"Poco/FIFOEvent.h"
+	"Poco/Delegate.h"
+
+1301334120 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\fifoevent.h
+	"Poco/AbstractEvent.h"
+	"Poco/FIFOStrategy.h"
+	"Poco/AbstractDelegate.h"
+	"Poco/CompareFunctions.h"
+
+1301334115 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\abstractevent.h
+	"Poco/Foundation.h"
+	"Poco/SingletonHolder.h"
+	"Poco/SharedPtr.h"
+	"Poco/ActiveResult.h"
+	"Poco/ActiveMethod.h"
+	"Poco/Mutex.h"
+
+1301334118 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\foundation.h
+	"Poco/Config.h"
+	"Poco/Platform.h"
+	"Poco/Platform_WIN32.h"
+	"Poco/Platform_VMS.h"
+	"Poco/Platform_POSIX.h"
+	"Poco/Bugcheck.h"
+	"Poco/Types.h"
+	<string>
+
+1301334124 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\config.h
+
+1301334116 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\platform.h
+
+1301334114 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\platform_win32.h
+
+1301334126 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\platform_vms.h
+
+1301334119 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\platform_posix.h
+
+1301334119 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\bugcheck.h
+	"Poco/Foundation.h"
+	<string>
+
+1301334118 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\types.h
+	"Poco/Foundation.h"
+
+1301334126 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\singletonholder.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+
+1301334125 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\mutex.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/ScopedLock.h"
+	"Poco/Mutex_WIN32.h"
+	"Poco/Mutex_POSIX.h"
+
+1301334119 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\exception.h
+	"Poco/Foundation.h"
+	<stdexcept>
+
+1301334126 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\scopedlock.h
+	"Poco/Foundation.h"
+
+1301334117 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\mutex_win32.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/UnWindows.h"
+
+1301334115 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\unwindows.h
+	<windows.h>
+
+1301334121 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\mutex_posix.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<pthread.h>
+	<errno.h>
+
+1301334125 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\sharedptr.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/Mutex.h"
+	<algorithm>
+
+1301334125 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\activeresult.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+	"Poco/Event.h"
+	"Poco/RefCountedObject.h"
+	"Poco/Exception.h"
+	<algorithm>
+
+1301334126 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\event.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/Event_WIN32.h"
+	"Poco/Event_POSIX.h"
+
+1301334119 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\event_win32.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/UnWindows.h"
+
+1301334116 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\event_posix.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<pthread.h>
+	<errno.h>
+
+1301334125 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\refcountedobject.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+
+1301334114 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\activemethod.h
+	"Poco/Foundation.h"
+	"Poco/ActiveResult.h"
+	"Poco/ActiveRunnable.h"
+	"Poco/ActiveStarter.h"
+	"Poco/AutoPtr.h"
+
+1301334114 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\activerunnable.h
+	"Poco/Foundation.h"
+	"Poco/ActiveResult.h"
+	"Poco/Runnable.h"
+	"Poco/RefCountedObject.h"
+	"Poco/AutoPtr.h"
+	"Poco/Exception.h"
+
+1301334120 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\runnable.h
+	"Poco/Foundation.h"
+
+1301334116 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\autoptr.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<algorithm>
+
+1301334116 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\activestarter.h
+	"Poco/Foundation.h"
+	"Poco/ThreadPool.h"
+	"Poco/ActiveRunnable.h"
+
+1301334116 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\threadpool.h
+	"Poco/Foundation.h"
+	"Poco/Thread.h"
+	"Poco/Mutex.h"
+	<vector>
+
+1301334119 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\thread.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+	"Poco/Thread_WIN32.h"
+	"Poco/Thread_POSIX.h"
+
+1301334118 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\thread_win32.h
+	"Poco/Foundation.h"
+	"Poco/Runnable.h"
+	"Poco/UnWindows.h"
+
+1301334121 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\thread_posix.h
+	"Poco/Foundation.h"
+	"Poco/Runnable.h"
+	"Poco/SignalHandler.h"
+	"Poco/Event.h"
+	"Poco/RefCountedObject.h"
+	"Poco/AutoPtr.h"
+	<pthread.h>
+	<sys/select.h>
+	<errno.h>
+
+1301334120 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\signalhandler.h
+	"Poco/Foundation.h"
+	<vector>
+	<setjmp.h>
+
+1301334119 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\fifostrategy.h
+	"Poco/NotificationStrategy.h"
+	<map>
+	<list>
+	<memory>
+
+1301334113 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\notificationstrategy.h
+	"Poco/Foundation.h"
+
+1301334124 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\abstractdelegate.h
+	"Poco/Foundation.h"
+
+1301334119 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\comparefunctions.h
+	"Poco/Foundation.h"
+	<functional>
+
+1301334116 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\delegate.h
+	"Poco/Foundation.h"
+	"Poco/AbstractDelegate.h"
+	"Poco/FunctionDelegate.h"
+	"Poco/Expire.h"
+
+1301334121 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\functiondelegate.h
+	"Poco/Foundation.h"
+	"Poco/AbstractDelegate.h"
+
+1301334125 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\expire.h
+	"Poco/Foundation.h"
+	"Poco/AbstractDelegate.h"
+	"Poco/Timestamp.h"
+
+1301334117 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\poco\include\poco\timestamp.h
+	"Poco/Foundation.h"
+	<ctime>
+
+1301334080 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\openframeworks\graphics\oftexture.h
+	"ofConstants.h"
+	"ofGraphics.h"
+
+1301334079 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\openframeworks\graphics\ofgraphics.h
+	"ofConstants.h"
+	"ofTypes.h"
+
+1301334080 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\openframeworks\graphics\oftruetypefont.h
+	"ofConstants.h"
+	"ofGraphics.h"
+	"ofUtils.h"
+	"ofTypes.h"
+
+1301334080 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\openframeworks\graphics\ofimage.h
+	"ofConstants.h"
+	"ofTexture.h"
+	"ofGraphics.h"
+	"ofAppRunner.h"
+	"FreeImage.h"
+	"ofUtils.h"
+
+1301334080 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\openframeworks\app\ofapprunner.h
+	"ofMain.h"
+	"ofBaseApp.h"
+	"ofAppBaseWindow.h"
+	"ofAppGlutWindow.h"
+
+1301334080 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\openframeworks\app\ofbaseapp.h
+	"ofTypes.h"
+
+1301334080 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\openframeworks\app\ofappbasewindow.h
+	"ofTypes.h"
+
+1301334080 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\openframeworks\app\ofappglutwindow.h
+	"ofConstants.h"
+	"ofAppBaseWindow.h"
+	"glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1301334075 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\glut\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301334075 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\freeimage\include\freeimage.h
+	<wchar.h>
+	<inttypes.h>
+
+1301334080 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\openframeworks\sound\ofsoundstream.h
+	"ofConstants.h"
+	"ofBaseApp.h"
+	"ofEvents.h"
+	"ofMath.h"
+
+1301334080 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\openframeworks\sound\ofsoundplayer.h
+	"ofConstants.h"
+	"fmod.h"
+	"fmod_errors.h"
+
+1301334110 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\fmodex\include\fmod.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+	"fmod_memoryinfo.h"
+
+1301334111 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\fmodex\include\fmod_codec.h
+
+1301334110 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\fmodex\include\fmod_dsp.h
+
+1301334111 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\fmodex\include\fmod_memoryinfo.h
+
+1301334110 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\fmodex\include\fmod_errors.h
+	"fmod.h"
+
+1301334081 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\openframeworks\video\ofvideograbber.h
+	"ofConstants.h"
+	"ofTexture.h"
+	"ofGraphics.h"
+	"ofTypes.h"
+	"ofQtUtils.h"
+	"videoInput.h"
+	"ofUCUtils.h"
+	"ofGstUtils.h"
+
+1301334081 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\openframeworks\video\ofqtutils.h
+	"ofConstants.h"
+	"ofGraphics.h"
+	<QuickTime/QuickTime.h>
+	<CoreServices/CoreServices.h>
+	<ApplicationServices/ApplicationServices.h>
+	<QTML.h>
+	<FixMath.h>
+	<QuickTimeComponents.h>
+	<TextUtils.h>
+	<MediaHandlers.h>
+
+1301334099 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\qtml.h
+	<MacTypes.h>
+	<MacMemory.h>
+	<MacWindows.h>
+	<OSUtils.h>
+	<Files.h>
+
+1301334082 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\mactypes.h
+	<ConditionalMacros.h>
+
+1301334083 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\conditionalmacros.h
+
+1301334105 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\macmemory.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1301334083 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\mixedmode.h
+	<MacTypes.h>
+
+1301334092 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\macwindows.h
+	<MacTypes.h>
+	<Aliases.h>
+	<AppleEvents.h>
+	<Collections.h>
+	<Drag.h>
+	<Events.h>
+	<Menus.h>
+	<MixedMode.h>
+	<QDOffscreen.h>
+	<Quickdraw.h>
+	<TextCommon.h>
+	<Icons.h>
+	<MacErrors.h>
+
+1301334107 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\aliases.h
+	<MacTypes.h>
+	<AppleTalk.h>
+	<Files.h>
+
+1301334093 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\appletalk.h
+	<MacTypes.h>
+	<OSUtils.h>
+
+1301334107 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\osutils.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<MacMemory.h>
+	<Patches.h>
+	<DateTimeUtils.h>
+	<Endian.h>
+
+1301334107 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\patches.h
+	<MacTypes.h>
+
+1301334101 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\datetimeutils.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+
+1301334082 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\endian.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+
+1301334083 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\files.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<OSUtils.h>
+	<TextCommon.h>
+	<UTCUtils.h>
+	<Finder.h>
+
+1301334110 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\textcommon.h
+	<MacTypes.h>
+
+1301334110 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\utcutils.h
+	<MacTypes.h>
+	<MacErrors.h>
+
+1301334103 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\macerrors.h
+	<ConditionalMacros.h>
+
+1301334083 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\finder.h
+	<MacTypes.h>
+
+1301334096 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\appleevents.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<Notification.h>
+	<Events.h>
+	<AEDataModel.h>
+
+1301334089 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\notification.h
+	<MacTypes.h>
+	<OSUtils.h>
+
+1301334094 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\events.h
+	<OSUtils.h>
+	<Quickdraw.h>
+	<MacTypes.h>
+	<Endian.h>
+
+1301334103 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\quickdraw.h
+	<Components.h>
+	<MacTypes.h>
+	<MixedMode.h>
+	<QuickdrawText.h>
+
+1301334104 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\components.h
+	<MacErrors.h>
+	<MacTypes.h>
+	<MixedMode.h>
+
+1301334087 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\quickdrawtext.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1301334092 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\aedatamodel.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1301334101 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\collections.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1301334088 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\drag.h
+	<MacTypes.h>
+	<Events.h>
+	<Files.h>
+	<AppleEvents.h>
+	<Quickdraw.h>
+
+1301334089 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\menus.h
+	<MacTypes.h>
+	<Events.h>
+	<Quickdraw.h>
+	<Fonts.h>
+	<TextCommon.h>
+	<Processes.h>
+	<AppleEvents.h>
+	<Collections.h>
+	<MacErrors.h>
+
+1301334110 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\fonts.h
+	<MacTypes.h>
+	<Files.h>
+	<Quickdraw.h>
+	<TextCommon.h>
+	<MacErrors.h>
+
+1301334086 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\processes.h
+	<MacTypes.h>
+	<Events.h>
+	<Files.h>
+
+1301334098 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\qdoffscreen.h
+	<MacErrors.h>
+	<Quickdraw.h>
+
+1301334110 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\icons.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<Files.h>
+	<CodeFragments.h>
+
+1301334091 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\codefragments.h
+	<MacTypes.h>
+	<Files.h>
+
+1301334083 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\fixmath.h
+	<MacTypes.h>
+
+1301334104 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\quicktimecomponents.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<Components.h>
+	<ImageCompression.h>
+	<Movies.h>
+	<Quickdraw.h>
+	<Video.h>
+	<Sound.h>
+	<QuickTimeMusic.h>
+
+1301334105 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\imagecompression.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<QDOffscreen.h>
+	<Components.h>
+	<StandardFile.h>
+
+1301334088 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\standardfile.h
+	<MacTypes.h>
+	<Dialogs.h>
+	<Files.h>
+
+1301334083 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\dialogs.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<Events.h>
+	<MacWindows.h>
+	<TextEdit.h>
+	<Controls.h>
+	<MacErrors.h>
+
+1301334083 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\textedit.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<MixedMode.h>
+
+1301334109 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\controls.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<Menus.h>
+	<TextEdit.h>
+	<Drag.h>
+	<Icons.h>
+	<Collections.h>
+	<MacErrors.h>
+
+1301334105 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\movies.h
+	<Quickdraw.h>
+	<Aliases.h>
+	<Events.h>
+	<Menus.h>
+	<Components.h>
+	<ImageCompression.h>
+
+1301334108 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\video.h
+	<Quickdraw.h>
+
+1301334106 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\sound.h
+	<MacTypes.h>
+	<Dialogs.h>
+	<Components.h>
+	<MixedMode.h>
+	<Movies.h>
+
+1301334094 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\quicktimemusic.h
+	<Components.h>
+	<ImageCompression.h>
+	<Movies.h>
+	<Quickdraw.h>
+	<Video.h>
+	<MacMemory.h>
+	<Sound.h>
+	<Endian.h>
+
+1301334087 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\textutils.h
+	<MacTypes.h>
+	<NumberFormatting.h>
+	<StringCompare.h>
+	<DateTimeUtils.h>
+
+1301334108 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\numberformatting.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+	<IntlResources.h>
+
+1301334088 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\intlresources.h
+	<MacTypes.h>
+
+1301334082 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\stringcompare.h
+	<MacTypes.h>
+	<TextCommon.h>
+	<Script.h>
+
+1301334082 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\script.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<IntlResources.h>
+	<Events.h>
+
+1301334083 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\quicktime\include\mediahandlers.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+	<Components.h>
+	<Movies.h>
+	<Sound.h>
+
+1301334076 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\videoinput\include\videoinput.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<wchar.h>
+	<windows.h>
+
+1301334081 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\openframeworks\video\ofgstutils.h
+	<gst/gst.h>
+	<pthread.h>
+	"ofConstants.h"
+
+1301334081 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\libs\openframeworks\video\ofvideoplayer.h
+	"ofConstants.h"
+	"ofTexture.h"
+	"ofGstUtils.h"
+	"ofQtUtils.h"
+
+1300297802 source:c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\addons\ofxxmlsettings\libs\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1300297802 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\addons\ofxxmlsettings\libs\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1300297802 source:c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\addons\ofxxmlsettings\libs\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1300297802 source:c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\addons\ofxxmlsettings\libs\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1300297802 source:c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\addons\ofxxmlsettings\src\ofxxmlsettings.cpp
+	"ofxXmlSettings.h"
+	<vector>
+	<string>
+	<iostream>
+
+1300297802 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\addons\ofxxmlsettings\src\ofxxmlsettings.h
+	"ofMain.h"
+	<string.h>
+	"tinyxml.h"
+
+1301945026 source:c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\src\main.cpp
+	"ofMain.h"
+	"testApp.h"
+	"ofAppGlutWindow.h"
+
+1301942961 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\src\testapp.h
+	"ofMain.h"
+	"imageSplitter.h"
+
+1301942963 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\warp\imagesplitter.h
+	"ofMain.h"
+	"ofxFBOTexture.h"
+	"warpDraw.h"
+	"gridGui.h"
+
+1301942967 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\warp\warpdraw.h
+	"ofMain.h"
+
+1301942964 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\warp\gridgui.h
+	"ofMain.h"
+	"meshHolder.h"
+
+1301942967 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\warp\meshholder.h
+	"ofMain.h"
+	"warpDraw.h"
+	"XmlManagerWarper.h"
+
+1300297802 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\warp\utilities\xmlmanagerwarper.h
+	"ofMain.h"
+	"ofxXmlSettings.h"
+	"ProgramStatusLogger.h"
+	"SliderFloat.h"
+	"SliderInt.h"
+
+1300715022 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\warp\utilities\status_logger\programstatuslogger.h
+	"ofMain.h"
+	<fstream>
+
+1300715000 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\warp\utilities\xml_manager\sliderfloat.h
+
+1300714992 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\warp\utilities\xml_manager\sliderint.h
+
+1301942964 source:c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\warp\gridgui.cpp
+	"gridGui.h"
+
+1301942965 source:c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\warp\imagesplitter.cpp
+	"imageSplitter.h"
+
+1301942965 source:c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\warp\meshholder.cpp
+	"meshHolder.h"
+
+1300297802 source:c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\warp\utilities\xmlmanagerwarper.cpp
+	"XmlManagerWarper.h"
+
+1300715030 source:c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\warp\utilities\status_logger\programstatuslogger.cpp
+	"ProgramStatusLogger.h"
+
+1300714982 source:c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\warp\utilities\xml_manager\xmlmanager.cpp
+	"XmlManager.h"
+
+1300714970 c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\warp\utilities\xml_manager\xmlmanager.h
+	"ofMain.h"
+	"ofxXmlSettings.h"
+	"ProgramStatusLogger.h"
+	"SliderFloat.h"
+	"SliderInt.h"
+
+1301942966 source:c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\warp\warpdraw.cpp
+	"warpDraw.h"
+
+1301944947 source:c:\users\administrator\desktop\of_prerelease_v0062_win_cb_fat\of_prerelease_v0062_win_cb_fat\apps\mine\emptyexample\src\testapp.cpp
+	"testApp.h"
+

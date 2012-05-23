@@ -1,0 +1,1 @@
+Make sure to include ofxXmlSettings from the OF FAT package, more details see http://www.openframeworks.cc/addons

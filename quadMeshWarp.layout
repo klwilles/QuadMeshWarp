@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="release" />
+	<File name="addons\ofxFboTexture_0061\ofxFBOTexture.h" open="0" top="0" tabpos="0">
+		<Cursor position="336" topLine="0" />
+	</File>
+	<File name="src\main.cpp" open="1" top="1" tabpos="0">
+		<Cursor position="312" topLine="0" />
+	</File>
+	<File name="src\testApp.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="383" topLine="0" />
+	</File>
+	<File name="src\testApp.h" open="0" top="0" tabpos="0">
+		<Cursor position="603" topLine="0" />
+	</File>
+	<File name="warp\gridGui.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="1861" topLine="0" />
+	</File>
+	<File name="warp\gridGui.h" open="0" top="0" tabpos="0">
+		<Cursor position="159" topLine="0" />
+	</File>
+	<File name="warp\imageSplitter.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="2564" topLine="0" />
+	</File>
+	<File name="warp\imageSplitter.h" open="0" top="0" tabpos="0">
+		<Cursor position="157" topLine="0" />
+	</File>
+	<File name="warp\meshHolder.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="125" topLine="0" />
+	</File>
+	<File name="warp\meshHolder.h" open="0" top="0" tabpos="0">
+		<Cursor position="165" topLine="0" />
+	</File>
+	<File name="warp\utilities\XmlManagerWarper.h" open="0" top="0" tabpos="0">
+		<Cursor position="590" topLine="0" />
+	</File>
+	<File name="warp\warpDraw.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="649" topLine="0" />
+	</File>
+	<File name="warp\warpDraw.h" open="0" top="0" tabpos="0">
+		<Cursor position="284" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
