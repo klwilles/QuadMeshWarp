@@ -3,6 +3,8 @@ QuadMeshWarp
 
 This OpenFrameworks addon allows you to warp panels with the FBO
 
+![Warp picture example](http://kenwillesdesign.com/images/code/warpExample.jpg)
+
 We used 4 projectors to display a 23'x8' image. Each panel could be manipulated by warping code to correct curve distortion. 
 
 When a panel is activated, you can modify the points along the mesh for warping. Mesh warp coordinates are saved into 4 separate XML files. Look at the imageSplitter.cpp file for keyboard commands. 
